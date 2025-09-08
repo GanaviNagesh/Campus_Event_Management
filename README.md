@@ -16,7 +16,7 @@ But in the Backend there are api's written for POST,GET,PUT,PATCH and DELETE the
 **Generating the Reports for the number of students attended for the event,number of students registered and overall feedback
 
 
-## #Technologies
+## Technologies
 
 1. Java17
 2. Spring Boot 3.5
@@ -24,8 +24,9 @@ But in the Backend there are api's written for POST,GET,PUT,PATCH and DELETE the
 4. My SQL 8
 5. Html,Javascript
 6. Restful APIs
+7. Maven
 
-## #Stepup Instructions
+## Stepup Instructions
 
 1. Clone the repository
 2. Create database CampusEvent;
