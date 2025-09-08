@@ -9,10 +9,15 @@ But in the Backend there are api's written for POST,GET,PUT,PATCH and DELETE the
 ## *Features*
 
 **Add,update,delete,get students
+
 **Student Registration to the events
+
 **Add,update,delete college
+
 **Adding events
+
 **Monitoring the Attendance
+
 **Generating the Reports for the number of students attended for the event,number of students registered and overall feedback
 
 
