@@ -1,42 +1,56 @@
 # Campus Event Management Application
 
-A simple backend which is developed implementing an event management application and a small wireframe implementing some features like adding student,college,and events and also along with an
-option to show the event reports
-Like the number of events and the number of registered students, and also the attendance report for an event
+Project Overview:
+This project is a backend implementation of an Event Management Application, accompanied by a basic front-end wireframe. The application allows for managing students, colleges, and events, as well as generating event-related reports. Key reports include the total number of events, registered students, and attendance tracking for each event.
 
-But in the Backend there are api's written for POST,GET,PUT,PATCH and DELETE the students,colleges,events and also an option for registering and for marking attendance and many more are implemented in the backend section
+The backend exposes RESTful APIs supporting POST, GET, PUT, PATCH, and DELETE operations for managing students, colleges, and events. Additional functionalities include student registration for events, attendance marking, and report generation.
 
-## *Features*
+Key Features:
 
-**Add,update,delete,get students
+1.Add, update, delete, and retrieve student information
 
-**Student Registration to the events
+2.Register students for events
 
-**Add,update,delete college
+3.Add, update, and delete college information
 
-**Adding events
+4.Create and manage events
 
-**Monitoring the Attendance
+5.Track and monitor event attendance
 
-**Generating the Reports for the number of students attended for the event,number of students registered and overall feedback
+6.Generate reports detailing:
+* Number of students registered for an event
 
+* Number of students who attended
 
-## Technologies
+* Overall feedback
 
-1. Java17
-2. Spring Boot 3.5
-3. Spring Data JPA/Hibernate
-4. My SQL 8
-5. Html,Javascript
-6. Restful APIs
-7. Maven
+Technologies Used:
 
-## Stepup Instructions
+*Java 17
 
-1. Clone the repository
-2. Create database CampusEvent;
-3. Configure application-properties:Set the database username and password.Ensure the database has been created via MYSql Command Line having the same name of the database in the application.properties.
-4. Open the front-end Html Pages index.html from there u can navigate to the admin.html and student.html pages
-5. For testing all the endpoints run them in the API client with your own data input examples
+*Spring Boot 3.5
 
-***The frontend is minimal or partially implemented and that the full functionality can be tested via Postman or any API client
+*Spring Data JPA / Hibernate
+
+*MySQL 8
+
+*HTML, JavaScript
+
+*RESTful APIs
+
+*Maven
+
+Setup Instructions:
+
+1.Clone the repository.
+
+2.Create a database named CampusEvent.
+
+3.Configure application.properties with your database username and password. Ensure that the database exists in MySQL.
+
+4.Open the front-end HTML pages: index.html, from which you can navigate to admin.html and student.html.
+
+5.For testing all backend functionalities, use Postman or any API client with sample input data.
+
+Note:
+The front-end is minimal and partially implemented. Full functionality of the application can be tested using the provided APIs.
