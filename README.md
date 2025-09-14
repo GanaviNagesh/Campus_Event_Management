@@ -26,19 +26,19 @@ Key Features:
 
 Technologies Used:
 
-*Java 17
+* Java 17
 
-*Spring Boot 3.5
+* Spring Boot 3.5
 
-*Spring Data JPA / Hibernate
+* Spring Data JPA / Hibernate
 
-*MySQL 8
+* MySQL 8
 
-*HTML, JavaScript
+* HTML, JavaScript
 
-*RESTful APIs
+* RESTful APIs
 
-*Maven
+* Maven
 
 Setup Instructions:
 
